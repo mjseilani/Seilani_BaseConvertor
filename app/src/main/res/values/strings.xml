@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">seilani BaseConvertor</string>
+    <string name="hint">Enter the desired number</string>
+    <string name="input">Enter number:</string>
+    <string name="r10to2">10 -> 2</string>
+    <string name="output">Result number:</string>
+    <string name="r2to10">2 -> 10</string>
+    <string name="text">Convert</string>
+    <string name="Clean">Clean</string>
+</resources>
